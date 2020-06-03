@@ -16,7 +16,7 @@ ls *.xml > manifest.txt
 ### On Windows
 
 ```powershell
-Get-ChildItem -Path . -Name | Select-String ".xml" | % { $_.Line } > manifest.txt
+Get-ChildItem -Path . -Name | Select-String ".xml" | % { $_.Line } | Set-Content -Encoding utf8 manifest.txt
 ```
 
 The `% { $_.Line }` avoids unwanted empty lines to be added to the file.
