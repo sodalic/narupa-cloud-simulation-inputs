@@ -1,1 +1,1 @@
-{"description": "Lorem ipsum dolor sit amet.", "simulation": "2g5n_complex_restrained.xml", "runner": "ase", "name": "2g5n_complex_restrained-ase"}
+{"description": "Lorem ipsum dolor sit amet.", "simulation": "https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/2g5n_complex_restrained.xml", "runner": "ase", "name": "2g5n_complex_restrained-ase"}

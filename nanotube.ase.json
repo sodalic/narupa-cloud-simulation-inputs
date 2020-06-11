@@ -1,1 +1,1 @@
-{"description": "Lorem ipsum dolor sit amet.", "simulation": "nanotube.xml", "runner": "ase", "name": "nanotube-ase"}
+{"description": "Lorem ipsum dolor sit amet.", "simulation": "https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/nanotube.xml", "runner": "ase", "name": "nanotube-ase"}

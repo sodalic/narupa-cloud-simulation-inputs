@@ -1,1 +1,1 @@
-{"description": "Lorem ipsum dolor sit amet.", "simulation": "buckyballs.xml", "runner": "ase", "name": "buckyballs-ase"}
+{"description": "Lorem ipsum dolor sit amet.", "simulation": "https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/buckyballs.xml", "runner": "ase", "name": "buckyballs-ase"}
