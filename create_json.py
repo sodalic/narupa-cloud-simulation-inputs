@@ -2,8 +2,6 @@
 from pathlib import Path
 import json
 
-BASE_URL='https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/'
-
 here = Path('.')
 all_xml = here.glob('*.xml')
 
@@ -12,7 +10,7 @@ for xml in all_xml:
     name = xml.stem
     content = {
         'description': 'Lorem ipsum dolor sit amet.',
-        'simulation': BASE_URL + str(xml),
+        'simulation': str(xml),
     }
     for runner in ('ase', 'omm'):
         json_path = xml.with_suffix(f'.{runner}.json')

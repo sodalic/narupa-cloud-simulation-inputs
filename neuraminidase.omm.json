@@ -1,1 +1,1 @@
-{"description": "Lorem ipsum dolor sit amet.", "simulation": "https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/neuraminidase.xml", "runner": "omm", "name": "neuraminidase-omm"}
+{"description": "Lorem ipsum dolor sit amet.", "simulation": "neuraminidase.xml", "runner": "omm", "name": "neuraminidase-omm"}

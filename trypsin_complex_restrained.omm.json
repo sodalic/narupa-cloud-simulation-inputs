@@ -1,1 +1,1 @@
-{"description": "Lorem ipsum dolor sit amet.", "simulation": "https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/trypsin_complex_restrained.xml", "runner": "omm", "name": "trypsin_complex_restrained-omm"}
+{"description": "Lorem ipsum dolor sit amet.", "simulation": "trypsin_complex_restrained.xml", "runner": "omm", "name": "trypsin_complex_restrained-omm"}

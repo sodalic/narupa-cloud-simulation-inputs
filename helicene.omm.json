@@ -1,1 +1,1 @@
-{"description": "Lorem ipsum dolor sit amet.", "simulation": "https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/helicene.xml", "runner": "omm", "name": "helicene-omm"}
+{"description": "Lorem ipsum dolor sit amet.", "simulation": "helicene.xml", "runner": "omm", "name": "helicene-omm"}

@@ -1,1 +1,1 @@
-{"description": "Lorem ipsum dolor sit amet.", "simulation": "https://gitlab.com/intangiblerealities/narupacloud/narupa-cloud-simulation-inputs/-/raw/json/17-ala.xml", "runner": "ase", "name": "17-ala-ase"}
+{"description": "Lorem ipsum dolor sit amet.", "simulation": "17-ala.xml", "runner": "ase", "name": "17-ala-ase"}
