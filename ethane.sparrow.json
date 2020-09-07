@@ -1,0 +1,1 @@
+{"description": "Ethane molecule simulated with sparrow.", "structure": "ethane.xyz", "runner": "sparrow", "name": "ethane-sparrow"}
