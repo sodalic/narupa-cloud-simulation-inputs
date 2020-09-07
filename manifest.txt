@@ -8,6 +8,7 @@
 6w63_narupa2.omm.json
 buckyballs.ase.json
 buckyballs.omm.json
+ethane.sparrow.json
 helicene.ase.json
 helicene.omm.json
 nanotube.ase.json
