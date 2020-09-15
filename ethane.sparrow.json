@@ -1,1 +1,10 @@
-{"description": "Ethane molecule simulated with sparrow.", "structure": "ethane.xyz", "runner": "sparrow", "name": "ethane-sparrow"}
+{
+    "description": "Ethane molecule simulated with sparrow using the DFTB0 method.",
+    "structure": "ethane.xyz",
+    "runner": "sparrow",
+    "name": "ethane-sparrow",
+    "method": "DFTB0",
+    "temperature": 300,
+    "friction": 1e-04,
+    "timestep": 0.5
+}
