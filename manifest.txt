@@ -4,6 +4,7 @@
 2g5n_complex_restrained.omm.json
 40-ALA.narupa2.ase.json
 40-ALA.narupa2.omm.json
+6e.sparrow.json
 6w63_narupa2.ase.json
 6w63_narupa2.omm.json
 buckyballs.ase.json

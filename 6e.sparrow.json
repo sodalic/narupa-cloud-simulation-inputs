@@ -1,0 +1,11 @@
+{
+    "description": "Compound 6e from Husch et al. 2017.",
+    "citation": "https://doi.org/10.1002/hlca.201700182",
+    "structure": "6e_conf1105_m062x.xyz",
+    "runner": "sparrow",
+    "name": "6e-sparrow",
+    "method": "PM6",
+    "temperature": "300",
+    "friction": "1e-04",
+    "timestep": "0.5"
+}
