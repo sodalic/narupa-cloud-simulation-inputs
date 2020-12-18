@@ -1,4 +1,4 @@
-17-ala.ase.json
+﻿17-ala.ase.json
 17-ala.omm.json
 2g5n_complex_restrained.ase.json
 2g5n_complex_restrained.omm.json
@@ -9,6 +9,7 @@
 6w63_narupa2.omm.json
 buckyballs.ase.json
 buckyballs.omm.json
+create_json.py
 ethane.sparrow.json
 helicene.ase.json
 helicene.omm.json
@@ -20,5 +21,6 @@ neuraminidase_complex_restrained.ase.json
 neuraminidase_complex_restrained.omm.json
 neuraminidase_restrained.ase.json
 neuraminidase_restrained.omm.json
+spike_protein_truncated.omm.json
 trypsin_complex_restrained.ase.json
 trypsin_complex_restrained.omm.json

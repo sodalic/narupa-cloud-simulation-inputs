@@ -1,0 +1,1 @@
+{"description": "Truncated SARS-CoV-2 Spike Protein with three linoleic acid molecules bound.", "simulation": "spike_protein_truncated.xml", "runner": "omm", "name": "spike-protein-truncated"}
