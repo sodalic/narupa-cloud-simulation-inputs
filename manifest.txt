@@ -21,6 +21,7 @@ neuraminidase_complex_restrained.ase.json
 neuraminidase_complex_restrained.omm.json
 neuraminidase_restrained.ase.json
 neuraminidase_restrained.omm.json
+nctreceptor.omm.json
 spike_protein_truncated.omm.json
 trypsin_complex_restrained.ase.json
 trypsin_complex_restrained.omm.json
