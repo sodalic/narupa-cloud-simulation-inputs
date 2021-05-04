@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/home/jlhar/miniconda/envs/narupa/bin/narupa-omm-ase", line 8, in <module>
+    sys.exit(main())
+  File "/home/jlhar/miniconda/envs/narupa/lib/python3.6/site-packages/narupa/ase/openmm/cli.py", line 128, in main
+    with initialise() as runner:
+  File "/home/jlhar/miniconda/envs/narupa/lib/python3.6/site-packages/narupa/ase/openmm/cli.py", line 116, in initialise
+    runner = ASEOpenMMRunner.from_xml(arguments.simulation_xml_path, params, logging_params)
+  File "/home/jlhar/miniconda/envs/narupa/lib/python3.6/site-packages/narupa/ase/openmm/runner.py", line 185, in from_xml
+    with open(simulation_xml) as infile:
+FileNotFoundError: [Errno 2] No such file or directory: './narupa-cloud-simulation-inputs/3_C20_with_pdb.xml'
+Traceback (most recent call last):
+  File "/home/jlhar/miniconda/envs/narupa/bin/narupa-omm-ase", line 8, in <module>
+    sys.exit(main())
+  File "/home/jlhar/miniconda/envs/narupa/lib/python3.6/site-packages/narupa/ase/openmm/cli.py", line 128, in main
+    with initialise() as runner:
+  File "/home/jlhar/miniconda/envs/narupa/lib/python3.6/site-packages/narupa/ase/openmm/cli.py", line 116, in initialise
+    runner = ASEOpenMMRunner.from_xml(arguments.simulation_xml_path, params, logging_params)
+  File "/home/jlhar/miniconda/envs/narupa/lib/python3.6/site-packages/narupa/ase/openmm/runner.py", line 185, in from_xml
+    with open(simulation_xml) as infile:
+FileNotFoundError: [Errno 2] No such file or directory: './narupa-cloud-simulation-inputs/3_C20_with_pdb.xml'
