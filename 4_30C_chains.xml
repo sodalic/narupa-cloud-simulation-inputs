@@ -1,0 +1,1736 @@
+<OpenMMSimulation>
+	<pdb>
+HETATM    1 C120 CST A   1      -0.000  -0.000   0.000  1.00  0.00           C  
+HETATM    2 C120 CST A   1       1.340   0.000   0.000  1.00  0.00           C  
+HETATM    3 C120 CST A   1       2.680   0.000  -0.000  1.00  0.00           C  
+HETATM    4 C120 CST A   1       4.020  -0.000  -0.000  1.00  0.00           C  
+HETATM    5 C120 CST A   1       5.360  -0.000   0.000  1.00  0.00           C  
+HETATM    6 C120 CST A   1       6.700  -0.000   0.000  1.00  0.00           C  
+HETATM    7 C120 CST A   1       8.040  -0.000  -0.000  1.00  0.00           C  
+HETATM    8 C120 CST A   1       9.380   0.000  -0.000  1.00  0.00           C  
+HETATM    9 C120 CST A   1      10.720   0.000  -0.000  1.00  0.00           C  
+HETATM   10 C120 CST A   1      12.060   0.000  -0.000  1.00  0.00           C  
+HETATM   11 C120 CST A   1      13.400  -0.000  -0.000  1.00  0.00           C  
+HETATM   12 C120 CST A   1      14.740   0.000   0.000  1.00  0.00           C  
+HETATM   13 C120 CST A   1      16.080   0.000  -0.000  1.00  0.00           C  
+HETATM   14 C120 CST A   1      17.420   0.000   0.000  1.00  0.00           C  
+HETATM   15 C120 CST A   1      18.760  -0.000   0.000  1.00  0.00           C  
+HETATM   16 C120 CST A   1      20.100   0.000  -0.000  1.00  0.00           C  
+HETATM   17 C120 CST A   1      21.440   0.000  -0.000  1.00  0.00           C  
+HETATM   18 C120 CST A   1      22.780  -0.000   0.000  1.00  0.00           C  
+HETATM   19 C120 CST A   1      24.120   0.000   0.000  1.00  0.00           C  
+HETATM   20 C120 CST A   1      25.460  -0.000  -0.000  1.00  0.00           C  
+HETATM   21 C120 CST A   1      26.800  -0.000   0.000  1.00  0.00           C  
+HETATM   22 C120 CST A   1      28.140  -0.000  -0.000  1.00  0.00           C  
+HETATM   23 C120 CST A   1      29.480  -0.000  -0.000  1.00  0.00           C  
+HETATM   24 C120 CST A   1      30.820  -0.000  -0.000  1.00  0.00           C  
+HETATM   25 C120 CST A   1      32.160  -0.000   0.000  1.00  0.00           C  
+HETATM   26 C120 CST A   1      33.500   0.000   0.000  1.00  0.00           C  
+HETATM   27 C120 CST A   1      34.840  -0.000   0.000  1.00  0.00           C  
+HETATM   28 C120 CST A   1      36.180  -0.000   0.000  1.00  0.00           C  
+HETATM   29 C120 CST A   1      37.520   0.000  -0.000  1.00  0.00           C  
+HETATM   30 C120 CST A   1      38.860   0.000  -0.000  1.00  0.00           C  
+HETATM   31 C120 CST A   1      -0.000  30.000  -0.000  1.00  0.00           C  
+HETATM   32 C120 CST A   1       1.340  30.000  -0.000  1.00  0.00           C  
+HETATM   33 C120 CST A   1       2.680  30.000  -0.000  1.00  0.00           C  
+HETATM   34 C120 CST A   1       4.020  30.000   0.000  1.00  0.00           C  
+HETATM   35 C120 CST A   1       5.360  30.000   0.000  1.00  0.00           C  
+HETATM   36 C120 CST A   1       6.700  30.000  -0.000  1.00  0.00           C  
+HETATM   37 C120 CST A   1       8.040  30.000   0.000  1.00  0.00           C  
+HETATM   38 C120 CST A   1       9.380  30.000  -0.000  1.00  0.00           C  
+HETATM   39 C120 CST A   1      10.720  30.000   0.000  1.00  0.00           C  
+HETATM   40 C120 CST A   1      12.060  30.000   0.000  1.00  0.00           C  
+HETATM   41 C120 CST A   1      13.400  30.000  -0.000  1.00  0.00           C  
+HETATM   42 C120 CST A   1      14.740  30.000  -0.000  1.00  0.00           C  
+HETATM   43 C120 CST A   1      16.080  30.000   0.000  1.00  0.00           C  
+HETATM   44 C120 CST A   1      17.420  30.000   0.000  1.00  0.00           C  
+HETATM   45 C120 CST A   1      18.760  30.000   0.000  1.00  0.00           C  
+HETATM   46 C120 CST A   1      20.100  30.000   0.000  1.00  0.00           C  
+HETATM   47 C120 CST A   1      21.440  30.000   0.000  1.00  0.00           C  
+HETATM   48 C120 CST A   1      22.780  30.000   0.000  1.00  0.00           C  
+HETATM   49 C120 CST A   1      24.120  30.000  -0.000  1.00  0.00           C  
+HETATM   50 C120 CST A   1      25.460  30.000  -0.000  1.00  0.00           C  
+HETATM   51 C120 CST A   1      26.800  30.000   0.000  1.00  0.00           C  
+HETATM   52 C120 CST A   1      28.140  30.000  -0.000  1.00  0.00           C  
+HETATM   53 C120 CST A   1      29.480  30.000   0.000  1.00  0.00           C  
+HETATM   54 C120 CST A   1      30.820  30.000   0.000  1.00  0.00           C  
+HETATM   55 C120 CST A   1      32.160  30.000  -0.000  1.00  0.00           C  
+HETATM   56 C120 CST A   1      33.500  30.000   0.000  1.00  0.00           C  
+HETATM   57 C120 CST A   1      34.840  30.000   0.000  1.00  0.00           C  
+HETATM   58 C120 CST A   1      36.180  30.000   0.000  1.00  0.00           C  
+HETATM   59 C120 CST A   1      37.520  30.000  -0.000  1.00  0.00           C  
+HETATM   60 C120 CST A   1      38.860  30.000  -0.000  1.00  0.00           C  
+HETATM   61 C120 CST A   1       0.000  60.000   0.000  1.00  0.00           C  
+HETATM   62 C120 CST A   1       1.340  60.000  -0.000  1.00  0.00           C  
+HETATM   63 C120 CST A   1       2.680  60.000  -0.000  1.00  0.00           C  
+HETATM   64 C120 CST A   1       4.020  60.000   0.000  1.00  0.00           C  
+HETATM   65 C120 CST A   1       5.360  60.000   0.000  1.00  0.00           C  
+HETATM   66 C120 CST A   1       6.700  60.000   0.000  1.00  0.00           C  
+HETATM   67 C120 CST A   1       8.040  60.000   0.000  1.00  0.00           C  
+HETATM   68 C120 CST A   1       9.380  60.000  -0.000  1.00  0.00           C  
+HETATM   69 C120 CST A   1      10.720  60.000  -0.000  1.00  0.00           C  
+HETATM   70 C120 CST A   1      12.060  60.000  -0.000  1.00  0.00           C  
+HETATM   71 C120 CST A   1      13.400  60.000   0.000  1.00  0.00           C  
+HETATM   72 C120 CST A   1      14.740  60.000  -0.000  1.00  0.00           C  
+HETATM   73 C120 CST A   1      16.080  60.000   0.000  1.00  0.00           C  
+HETATM   74 C120 CST A   1      17.420  60.000   0.000  1.00  0.00           C  
+HETATM   75 C120 CST A   1      18.760  60.000   0.000  1.00  0.00           C  
+HETATM   76 C120 CST A   1      20.100  60.000   0.000  1.00  0.00           C  
+HETATM   77 C120 CST A   1      21.440  60.000   0.000  1.00  0.00           C  
+HETATM   78 C120 CST A   1      22.780  60.000   0.000  1.00  0.00           C  
+HETATM   79 C120 CST A   1      24.120  60.000  -0.000  1.00  0.00           C  
+HETATM   80 C120 CST A   1      25.460  60.000   0.000  1.00  0.00           C  
+HETATM   81 C120 CST A   1      26.800  60.000   0.000  1.00  0.00           C  
+HETATM   82 C120 CST A   1      28.140  60.000  -0.000  1.00  0.00           C  
+HETATM   83 C120 CST A   1      29.480  60.000   0.000  1.00  0.00           C  
+HETATM   84 C120 CST A   1      30.820  60.000   0.000  1.00  0.00           C  
+HETATM   85 C120 CST A   1      32.160  60.000   0.000  1.00  0.00           C  
+HETATM   86 C120 CST A   1      33.500  60.000   0.000  1.00  0.00           C  
+HETATM   87 C120 CST A   1      34.840  60.000   0.000  1.00  0.00           C  
+HETATM   88 C120 CST A   1      36.180  60.000  -0.000  1.00  0.00           C  
+HETATM   89 C120 CST A   1      37.520  60.000   0.000  1.00  0.00           C  
+HETATM   90 C120 CST A   1      38.860  60.000   0.000  1.00  0.00           C  
+HETATM   91 C120 CST A   1       0.000  90.000   0.000  1.00  0.00           C  
+HETATM   92 C120 CST A   1       1.340  90.000   0.000  1.00  0.00           C  
+HETATM   93 C120 CST A   1       2.680  90.000  -0.000  1.00  0.00           C  
+HETATM   94 C120 CST A   1       4.020  90.000  -0.000  1.00  0.00           C  
+HETATM   95 C120 CST A   1       5.360  90.000   0.000  1.00  0.00           C  
+HETATM   96 C120 CST A   1       6.700  90.000   0.000  1.00  0.00           C  
+HETATM   97 C120 CST A   1       8.040  90.000  -0.000  1.00  0.00           C  
+HETATM   98 C120 CST A   1       9.380  90.000  -0.000  1.00  0.00           C  
+HETATM   99 C120 CST A   1      10.720  90.000   0.000  1.00  0.00           C  
+HETATM  100 C120 CST A   1      12.060  90.000  -0.000  1.00  0.00           C  
+HETATM  101 C120 CST A   1      13.400  90.000   0.000  1.00  0.00           C  
+HETATM  102 C120 CST A   1      14.740  90.000  -0.000  1.00  0.00           C  
+HETATM  103 C120 CST A   1      16.080  90.000   0.000  1.00  0.00           C  
+HETATM  104 C120 CST A   1      17.420  90.000  -0.000  1.00  0.00           C  
+HETATM  105 C120 CST A   1      18.760  90.000  -0.000  1.00  0.00           C  
+HETATM  106 C120 CST A   1      20.100  90.000   0.000  1.00  0.00           C  
+HETATM  107 C120 CST A   1      21.440  90.000   0.000  1.00  0.00           C  
+HETATM  108 C120 CST A   1      22.780  90.000   0.000  1.00  0.00           C  
+HETATM  109 C120 CST A   1      24.120  90.000   0.000  1.00  0.00           C  
+HETATM  110 C120 CST A   1      25.460  90.000   0.000  1.00  0.00           C  
+HETATM  111 C120 CST A   1      26.800  90.000   0.000  1.00  0.00           C  
+HETATM  112 C120 CST A   1      28.140  90.000  -0.000  1.00  0.00           C  
+HETATM  113 C120 CST A   1      29.480  90.000   0.000  1.00  0.00           C  
+HETATM  114 C120 CST A   1      30.820  90.000   0.000  1.00  0.00           C  
+HETATM  115 C120 CST A   1      32.160  90.000   0.000  1.00  0.00           C  
+HETATM  116 C120 CST A   1      33.500  90.000   0.000  1.00  0.00           C  
+HETATM  117 C120 CST A   1      34.840  90.000  -0.000  1.00  0.00           C  
+HETATM  118 C120 CST A   1      36.180  90.000   0.000  1.00  0.00           C  
+HETATM  119 C120 CST A   1      37.520  90.000   0.000  1.00  0.00           C  
+HETATM  120 C120 CST A   1      38.860  90.000  -0.000  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29
+CONECT   31   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48   50
+CONECT   50   49   51
+CONECT   51   50   52
+CONECT   52   51   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   56   58
+CONECT   58   57   59
+CONECT   59   58   60
+CONECT   60   59
+CONECT   61   62
+CONECT   62   61   63
+CONECT   63   62   64
+CONECT   64   63   65
+CONECT   65   64   66
+CONECT   66   65   67
+CONECT   67   66   68
+CONECT   68   67   69
+CONECT   69   68   70
+CONECT   70   69   71
+CONECT   71   70   72
+CONECT   72   71   73
+CONECT   73   72   74
+CONECT   74   73   75
+CONECT   75   74   76
+CONECT   76   75   77
+CONECT   77   76   78
+CONECT   78   77   79
+CONECT   79   78   80
+CONECT   80   79   81
+CONECT   81   80   82
+CONECT   82   81   83
+CONECT   83   82   84
+CONECT   84   83   85
+CONECT   85   84   86
+CONECT   86   85   87
+CONECT   87   86   88
+CONECT   88   87   89
+CONECT   89   88   90
+CONECT   90   89
+CONECT   91   92
+CONECT   92   91   93
+CONECT   93   92   94
+CONECT   94   93   95
+CONECT   95   94   96
+CONECT   96   95   97
+CONECT   97   96   98
+CONECT   98   97   99
+CONECT   99   98  100
+CONECT  100   99  101
+CONECT  101  100  102
+CONECT  102  101  103
+CONECT  103  102  104
+CONECT  104  103  105
+CONECT  105  104  106
+CONECT  106  105  107
+CONECT  107  106  108
+CONECT  108  107  109
+CONECT  109  108  110
+CONECT  110  109  111
+CONECT  111  110  112
+CONECT  112  111  113
+CONECT  113  112  114
+CONECT  114  113  115
+CONECT  115  114  116
+CONECT  116  115  117
+CONECT  117  116  118
+CONECT  118  117  119
+CONECT  119  118  120
+CONECT  120  119
+END
+</pdb>
+	<System openmmVersion="7.4.2" type="System" version="1">
+		
+	
+		<PeriodicBoxVectors>
+			
+		
+			<A x="20" y="0" z="0"/>
+			
+		
+			<B x="0" y="20" z="0"/>
+			
+		
+			<C x="0" y="0" z="20"/>
+			
+	
+		</PeriodicBoxVectors>
+		
+	
+		<Particles>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+		
+			<Particle mass="12"/>
+			
+	
+		</Particles>
+		
+	
+		<Constraints/>
+		
+	
+		<Forces>
+			
+		
+			<Force forceGroup="0" type="HarmonicBondForce" usesPeriodic="0" version="2">
+				
+			
+				<Bonds>
+					
+				
+					<Bond d=".134" k="451725" p1="0" p2="1"/>
+					
+				
+					<Bond d=".134" k="451725" p1="1" p2="2"/>
+					
+				
+					<Bond d=".134" k="451725" p1="2" p2="3"/>
+					
+				
+					<Bond d=".134" k="451725" p1="3" p2="4"/>
+					
+				
+					<Bond d=".134" k="451725" p1="4" p2="5"/>
+					
+				
+					<Bond d=".134" k="451725" p1="5" p2="6"/>
+					
+				
+					<Bond d=".134" k="451725" p1="6" p2="7"/>
+					
+				
+					<Bond d=".134" k="451725" p1="7" p2="8"/>
+					
+				
+					<Bond d=".134" k="451725" p1="8" p2="9"/>
+					
+				
+					<Bond d=".134" k="451725" p1="9" p2="10"/>
+					
+				
+					<Bond d=".134" k="451725" p1="10" p2="11"/>
+					
+				
+					<Bond d=".134" k="451725" p1="11" p2="12"/>
+					
+				
+					<Bond d=".134" k="451725" p1="12" p2="13"/>
+					
+				
+					<Bond d=".134" k="451725" p1="13" p2="14"/>
+					
+				
+					<Bond d=".134" k="451725" p1="14" p2="15"/>
+					
+				
+					<Bond d=".134" k="451725" p1="15" p2="16"/>
+					
+				
+					<Bond d=".134" k="451725" p1="16" p2="17"/>
+					
+				
+					<Bond d=".134" k="451725" p1="17" p2="18"/>
+					
+				
+					<Bond d=".134" k="451725" p1="18" p2="19"/>
+					
+				
+					<Bond d=".134" k="451725" p1="19" p2="20"/>
+					
+				
+					<Bond d=".134" k="451725" p1="20" p2="21"/>
+					
+				
+					<Bond d=".134" k="451725" p1="21" p2="22"/>
+					
+				
+					<Bond d=".134" k="451725" p1="22" p2="23"/>
+					
+				
+					<Bond d=".134" k="451725" p1="23" p2="24"/>
+					
+				
+					<Bond d=".134" k="451725" p1="24" p2="25"/>
+					
+				
+					<Bond d=".134" k="451725" p1="25" p2="26"/>
+					
+				
+					<Bond d=".134" k="451725" p1="26" p2="27"/>
+					
+				
+					<Bond d=".134" k="451725" p1="27" p2="28"/>
+					
+				
+					<Bond d=".134" k="451725" p1="28" p2="29"/>
+					
+				
+					<Bond d=".134" k="451725" p1="30" p2="31"/>
+					
+				
+					<Bond d=".134" k="451725" p1="31" p2="32"/>
+					
+				
+					<Bond d=".134" k="451725" p1="32" p2="33"/>
+					
+				
+					<Bond d=".134" k="451725" p1="33" p2="34"/>
+					
+				
+					<Bond d=".134" k="451725" p1="34" p2="35"/>
+					
+				
+					<Bond d=".134" k="451725" p1="35" p2="36"/>
+					
+				
+					<Bond d=".134" k="451725" p1="36" p2="37"/>
+					
+				
+					<Bond d=".134" k="451725" p1="37" p2="38"/>
+					
+				
+					<Bond d=".134" k="451725" p1="38" p2="39"/>
+					
+				
+					<Bond d=".134" k="451725" p1="39" p2="40"/>
+					
+				
+					<Bond d=".134" k="451725" p1="40" p2="41"/>
+					
+				
+					<Bond d=".134" k="451725" p1="41" p2="42"/>
+					
+				
+					<Bond d=".134" k="451725" p1="42" p2="43"/>
+					
+				
+					<Bond d=".134" k="451725" p1="43" p2="44"/>
+					
+				
+					<Bond d=".134" k="451725" p1="44" p2="45"/>
+					
+				
+					<Bond d=".134" k="451725" p1="45" p2="46"/>
+					
+				
+					<Bond d=".134" k="451725" p1="46" p2="47"/>
+					
+				
+					<Bond d=".134" k="451725" p1="47" p2="48"/>
+					
+				
+					<Bond d=".134" k="451725" p1="48" p2="49"/>
+					
+				
+					<Bond d=".134" k="451725" p1="49" p2="50"/>
+					
+				
+					<Bond d=".134" k="451725" p1="50" p2="51"/>
+					
+				
+					<Bond d=".134" k="451725" p1="51" p2="52"/>
+					
+				
+					<Bond d=".134" k="451725" p1="52" p2="53"/>
+					
+				
+					<Bond d=".134" k="451725" p1="53" p2="54"/>
+					
+				
+					<Bond d=".134" k="451725" p1="54" p2="55"/>
+					
+				
+					<Bond d=".134" k="451725" p1="55" p2="56"/>
+					
+				
+					<Bond d=".134" k="451725" p1="56" p2="57"/>
+					
+				
+					<Bond d=".134" k="451725" p1="57" p2="58"/>
+					
+				
+					<Bond d=".134" k="451725" p1="58" p2="59"/>
+					
+				
+					<Bond d=".134" k="451725" p1="60" p2="61"/>
+					
+				
+					<Bond d=".134" k="451725" p1="61" p2="62"/>
+					
+				
+					<Bond d=".134" k="451725" p1="62" p2="63"/>
+					
+				
+					<Bond d=".134" k="451725" p1="63" p2="64"/>
+					
+				
+					<Bond d=".134" k="451725" p1="64" p2="65"/>
+					
+				
+					<Bond d=".134" k="451725" p1="65" p2="66"/>
+					
+				
+					<Bond d=".134" k="451725" p1="66" p2="67"/>
+					
+				
+					<Bond d=".134" k="451725" p1="67" p2="68"/>
+					
+				
+					<Bond d=".134" k="451725" p1="68" p2="69"/>
+					
+				
+					<Bond d=".134" k="451725" p1="69" p2="70"/>
+					
+				
+					<Bond d=".134" k="451725" p1="70" p2="71"/>
+					
+				
+					<Bond d=".134" k="451725" p1="71" p2="72"/>
+					
+				
+					<Bond d=".134" k="451725" p1="72" p2="73"/>
+					
+				
+					<Bond d=".134" k="451725" p1="73" p2="74"/>
+					
+				
+					<Bond d=".134" k="451725" p1="74" p2="75"/>
+					
+				
+					<Bond d=".134" k="451725" p1="75" p2="76"/>
+					
+				
+					<Bond d=".134" k="451725" p1="76" p2="77"/>
+					
+				
+					<Bond d=".134" k="451725" p1="77" p2="78"/>
+					
+				
+					<Bond d=".134" k="451725" p1="78" p2="79"/>
+					
+				
+					<Bond d=".134" k="451725" p1="79" p2="80"/>
+					
+				
+					<Bond d=".134" k="451725" p1="80" p2="81"/>
+					
+				
+					<Bond d=".134" k="451725" p1="81" p2="82"/>
+					
+				
+					<Bond d=".134" k="451725" p1="82" p2="83"/>
+					
+				
+					<Bond d=".134" k="451725" p1="83" p2="84"/>
+					
+				
+					<Bond d=".134" k="451725" p1="84" p2="85"/>
+					
+				
+					<Bond d=".134" k="451725" p1="85" p2="86"/>
+					
+				
+					<Bond d=".134" k="451725" p1="86" p2="87"/>
+					
+				
+					<Bond d=".134" k="451725" p1="87" p2="88"/>
+					
+				
+					<Bond d=".134" k="451725" p1="88" p2="89"/>
+					
+				
+					<Bond d=".134" k="451725" p1="90" p2="91"/>
+					
+				
+					<Bond d=".134" k="451725" p1="91" p2="92"/>
+					
+				
+					<Bond d=".134" k="451725" p1="92" p2="93"/>
+					
+				
+					<Bond d=".134" k="451725" p1="93" p2="94"/>
+					
+				
+					<Bond d=".134" k="451725" p1="94" p2="95"/>
+					
+				
+					<Bond d=".134" k="451725" p1="95" p2="96"/>
+					
+				
+					<Bond d=".134" k="451725" p1="96" p2="97"/>
+					
+				
+					<Bond d=".134" k="451725" p1="97" p2="98"/>
+					
+				
+					<Bond d=".134" k="451725" p1="98" p2="99"/>
+					
+				
+					<Bond d=".134" k="451725" p1="99" p2="100"/>
+					
+				
+					<Bond d=".134" k="451725" p1="100" p2="101"/>
+					
+				
+					<Bond d=".134" k="451725" p1="101" p2="102"/>
+					
+				
+					<Bond d=".134" k="451725" p1="102" p2="103"/>
+					
+				
+					<Bond d=".134" k="451725" p1="103" p2="104"/>
+					
+				
+					<Bond d=".134" k="451725" p1="104" p2="105"/>
+					
+				
+					<Bond d=".134" k="451725" p1="105" p2="106"/>
+					
+				
+					<Bond d=".134" k="451725" p1="106" p2="107"/>
+					
+				
+					<Bond d=".134" k="451725" p1="107" p2="108"/>
+					
+				
+					<Bond d=".134" k="451725" p1="108" p2="109"/>
+					
+				
+					<Bond d=".134" k="451725" p1="109" p2="110"/>
+					
+				
+					<Bond d=".134" k="451725" p1="110" p2="111"/>
+					
+				
+					<Bond d=".134" k="451725" p1="111" p2="112"/>
+					
+				
+					<Bond d=".134" k="451725" p1="112" p2="113"/>
+					
+				
+					<Bond d=".134" k="451725" p1="113" p2="114"/>
+					
+				
+					<Bond d=".134" k="451725" p1="114" p2="115"/>
+					
+				
+					<Bond d=".134" k="451725" p1="115" p2="116"/>
+					
+				
+					<Bond d=".134" k="451725" p1="116" p2="117"/>
+					
+				
+					<Bond d=".134" k="451725" p1="117" p2="118"/>
+					
+				
+					<Bond d=".134" k="451725" p1="118" p2="119"/>
+					
+			
+				</Bonds>
+				
+		
+			</Force>
+			
+		
+			<Force alpha="0" cutoff="1" dispersionCorrection="1" ewaldTolerance=".0005" forceGroup="0" ljAlpha="0" ljnx="0" ljny="0" ljnz="0" method="0" nx="0" ny="0" nz="0" recipForceGroup="-1" rfDielectric="78.3" switchingDistance="-1" type="NonbondedForce" useSwitchingFunction="0" version="3">
+				
+			
+				<GlobalParameters/>
+				
+			
+				<ParticleOffsets/>
+				
+			
+				<ExceptionOffsets/>
+				
+			
+				<Particles>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+				
+					<Particle eps=".234304" q="0" sig=".196"/>
+					
+			
+				</Particles>
+				
+			
+				<Exceptions>
+					
+				
+					<Exception eps="0" p1="0" p2="1" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="1" p2="2" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="2" p2="3" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="3" p2="4" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="4" p2="5" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="5" p2="6" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="6" p2="7" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="7" p2="8" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="8" p2="9" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="9" p2="10" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="10" p2="11" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="11" p2="12" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="12" p2="13" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="13" p2="14" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="14" p2="15" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="15" p2="16" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="16" p2="17" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="17" p2="18" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="18" p2="19" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="19" p2="20" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="20" p2="21" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="21" p2="22" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="22" p2="23" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="23" p2="24" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="24" p2="25" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="25" p2="26" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="26" p2="27" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="27" p2="28" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="28" p2="29" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="30" p2="31" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="31" p2="32" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="32" p2="33" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="33" p2="34" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="34" p2="35" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="35" p2="36" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="36" p2="37" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="37" p2="38" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="38" p2="39" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="39" p2="40" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="40" p2="41" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="41" p2="42" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="42" p2="43" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="43" p2="44" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="44" p2="45" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="45" p2="46" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="46" p2="47" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="47" p2="48" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="48" p2="49" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="49" p2="50" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="50" p2="51" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="51" p2="52" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="52" p2="53" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="53" p2="54" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="54" p2="55" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="55" p2="56" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="56" p2="57" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="57" p2="58" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="58" p2="59" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="60" p2="61" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="61" p2="62" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="62" p2="63" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="63" p2="64" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="64" p2="65" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="65" p2="66" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="66" p2="67" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="67" p2="68" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="68" p2="69" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="69" p2="70" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="70" p2="71" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="71" p2="72" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="72" p2="73" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="73" p2="74" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="74" p2="75" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="75" p2="76" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="76" p2="77" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="77" p2="78" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="78" p2="79" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="79" p2="80" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="80" p2="81" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="81" p2="82" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="82" p2="83" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="83" p2="84" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="84" p2="85" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="85" p2="86" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="86" p2="87" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="87" p2="88" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="88" p2="89" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="90" p2="91" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="91" p2="92" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="92" p2="93" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="93" p2="94" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="94" p2="95" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="95" p2="96" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="96" p2="97" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="97" p2="98" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="98" p2="99" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="99" p2="100" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="100" p2="101" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="101" p2="102" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="102" p2="103" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="103" p2="104" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="104" p2="105" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="105" p2="106" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="106" p2="107" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="107" p2="108" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="108" p2="109" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="109" p2="110" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="110" p2="111" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="111" p2="112" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="112" p2="113" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="113" p2="114" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="114" p2="115" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="115" p2="116" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="116" p2="117" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="117" p2="118" q="0" sig="0"/>
+					
+				
+					<Exception eps="0" p1="118" p2="119" q="0" sig="0"/>
+					
+			
+				</Exceptions>
+				
+		
+			</Force>
+			
+	
+		</Forces>
+		
+
+	</System>
+	<Integrator constraintTolerance="1e-05" friction="10" randomSeed="0" stepSize=".001" temperature="100" type="LangevinIntegrator" version="1"/>
+</OpenMMSimulation>
+
