@@ -1705,5 +1705,5 @@ END
 		
 
 	</System>
-	<Integrator constraintTolerance="1e-05" stepSize=".001" type="VerletIntegrator" version="1"/>
+	<Integrator constraintTolerance="1e-03" stepSize=".00001" type="VerletIntegrator" version="1"/>
 </OpenMMSimulation>
